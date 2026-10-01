@@ -12,7 +12,7 @@ Make sure you have:
 ## 2. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone "https://github.com/tamil43/Customer_Revenue_Anlaytics"
 cd customer-revenue-analytics
 ```
 
